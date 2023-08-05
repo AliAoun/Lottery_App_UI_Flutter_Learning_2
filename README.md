@@ -3,10 +3,10 @@ A new Flutter project about the lottery app.
 
 ## Screenshot of the following app:
 
-When your number doesn\'t match with the lucky number.  
+When your number doesn\'t match with the lottery number.  
 <img src="https://github.com/AliAoun/Lottery_App_UI_Flutter_Learning_2/assets/80461232/8306af45-de34-4d28-ae0e-96e1ab185f4e" width="30%" height="30%">
 
-When your number matches with the lucky number.  
+When your number matches with the lottery number.  
 <img src="https://github.com/AliAoun/Lottery_App_UI_Flutter_Learning_2/assets/80461232/d1fd88d6-acfb-424d-a0c2-7d71a5edbf1d" width="30%" height="30%">
 
 
