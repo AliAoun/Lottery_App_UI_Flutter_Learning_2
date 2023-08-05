@@ -1,7 +1,7 @@
 # lottery_app_flutter_learning_2
 A new Flutter project about the lottery app.
 
-## Screenshot of the following app:
+## Screenshots of the following app:
 
 When your number doesn\'t match with the lottery number.  
 <img src="https://github.com/AliAoun/Lottery_App_UI_Flutter_Learning_2/assets/80461232/8306af45-de34-4d28-ae0e-96e1ab185f4e" width="30%" height="30%">
